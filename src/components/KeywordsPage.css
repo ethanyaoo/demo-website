@@ -1,0 +1,11 @@
+ @font-face {
+   font-family: 'MenuFont';
+   src:  url('./OpenSans-Regular.woff') format('woff');
+}
+
+.KeywordsPage {
+    color: #808080;
+    font-family: 'MenuFont';
+    list-style-type: square;
+}
+
